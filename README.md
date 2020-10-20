@@ -1,2 +1,2 @@
 # codeplacebo-belajarCSS
-hasil codingan belajar CSS
+coding hasil pembelajaran CSS
