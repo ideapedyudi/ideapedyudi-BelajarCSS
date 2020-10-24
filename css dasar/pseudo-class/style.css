@@ -1,0 +1,29 @@
+.hello:link {
+  color: orange;
+}
+
+.hello:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: green;
+}
+
+.hello:active {
+  font-style: italic;
+}
+
+.hello:visited {
+  color: red;
+}
+
+ul li:nth-child(odd) a {
+  color: green;
+}
+
+li:nth-child(odd) a:hover {
+  color: red;
+}
+
+p:last-of-type {
+  color: red;
+}
